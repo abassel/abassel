@@ -19,7 +19,7 @@ chmod +x up_iconic.sh
 ./up_iconic.sh
 ```
 
-1. Install Iterm2 from http://iterm2.com or ( `brew install iterm` )
+1. Install Iterm2 from http://iterm2.com or ( `brew install iterm2` )
    
 2. Install zsh-autosuggestions zsh-syntax-highlighting zsh-completions and wget( `brew install zsh-autosuggestions zsh-syntax-highlighting zsh-completions wget` )
 

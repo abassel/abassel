@@ -111,7 +111,7 @@ df -h
 # tmpfs           512M     0  512M   0% /mnt/tmpfs  <-- here
 ```
 
-5 - Bootstrap Debain and copy some configuration
+5 - Bootstrap Debian and copy some configuration
 
 I recommend you not use `--variant=minbase` so the pivot goes smooth (because you will be pivoting to a systemd)
 
@@ -202,7 +202,7 @@ fuser -mk /dev/vda1
 # >>>> reconnect <<<<
 
 # Run `fuser -mk /dev/vda1` multiple times until
-# until you end with the contents bellow
+# until you end with the contents below
 fuser -mk /dev/vda1
 # /dev/vda1:               1e
 

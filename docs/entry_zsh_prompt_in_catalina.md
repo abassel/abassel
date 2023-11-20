@@ -11,7 +11,7 @@ In this article, I will share my scripts and show some of the benefits of taking
 
 ## Steps for Mac:
 
-All the steps bellow except for the LAST TWO, can be executed with a simple script bellow:
+All the steps below except for the LAST TWO, can be executed with a simple script below:
 
 ```bash
 wget https://gist.github.com/abassel/7b4e6e09916c46d24efb/raw/up_iconic.sh

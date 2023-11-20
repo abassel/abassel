@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Alexandre Bassel, an entusiastic full stack developer looking forward to contribute for the open source community
+I'm Alexandre Bassel, an enthusiastic full stack developer looking forward to contribute for the open source community
 
 - 🔭 I’m currently working on building my Own Cloud with Docker 
 - 🌱 I’m currently learning Svelte

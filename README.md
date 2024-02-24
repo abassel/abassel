@@ -6,9 +6,9 @@ I'm Alexandre Bassel, an enthusiastic full stack developer looking forward to co
 - 🌱 I’m currently learning Svelte
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![abassel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abassel&hide=stars,issues,contribs&count_private=true&show_icons=true)
+<!-- ![abassel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abassel&hide=stars,issues,contribs&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abassel&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abassel&layout=compact) -->
 
 
 <!--

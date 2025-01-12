@@ -113,7 +113,7 @@ bb.barracudacentral.org
 black.junkemailfilter.com
 bl.blocklist.de
 bl.drmx.org
-bl.konstant.no
+bl.constant.no
 bl.mailspike.net
 bl.nosolicitado.org
 bl.nszones.com

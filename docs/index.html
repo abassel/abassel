@@ -57,7 +57,31 @@
                 noData     : 'No results!',
                 placeholder: 'Search...'
             },
-            disqus: 'abassel-com'
+            disqus: 'abassel-com',
+            // Disable Disqus on homepage
+            plugins: [
+                function(hook, vm) {
+                    hook.beforeEach(function(content) {
+                        console.log(vm.route.file);
+                        const disqusContainer = document.getElementById('disqus_thread');
+                        if (vm.route.file === 'latest.md') {
+                            // Remove Disqus container if it exists on homepage
+                            if (disqusContainer) {
+                                disqusContainer.style.visibility = 'hidden';
+                                console.log("Disqus disabled on homepage");
+                            }
+                            // window.$docsify.disqus = false;
+                        } else {
+                            if (disqusContainer) {
+                                disqusContainer.style.visibility = 'visible';
+                                console.log("Disqus enabled");
+                            }
+                            // window.$docsify.disqus = 'abassel-com';
+                        }
+                        return content;
+                    });
+                }
+            ]
         };
     </script>
     <script src="assets/js/main.js"></script>

@@ -2,7 +2,7 @@
 
 > I code, therefore I am!
 
-- FullStack, Automation, DevOps, Linux Systems and Security
+- FullStack, AI, Automation, DevOps, Linux Systems and Security
 
 [Latest Entries](latest)
 [GitHub](https://github.com/abassel)
